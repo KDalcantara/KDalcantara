@@ -3,6 +3,9 @@
 
 ![Kelvin GitHub stats](https://github-readme-stats.vercel.app/api?username=KDalcantara&show_icons=true&theme=dracula&count_private=true)
 
+
+Apaixonado por tecnologia, educação e por mudar a vida das pessoas através da programação.
+
 ## Tecnologias que eu uso no meu dia
 
 <div style="display: inline_block">
@@ -18,7 +21,6 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=KDalcantara)](https://github.com/KDalcantara/github-readme-stats)
 
-Apaixonado por tecnologia, educação e por mudar a vida das pessoas através da programação.
 
 
 
