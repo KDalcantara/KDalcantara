@@ -29,6 +29,8 @@ Pagina pessoal responsiva com integracao a GitHub REST API, carregamento
 assincrono de perfil e repositorios, cards dinamicos, formulario de contato,
 persistencia de skills e fallback para indisponibilidade da API.
 
+acesse para ver: https://kdalcantara.github.io/Sobre-mim/
+
 ### [Barbearia Alura](https://github.com/KDalcantara/Barbearia-Alura)
 
 Pagina institucional para uma barbearia, com apresentacao da marca, missao,
