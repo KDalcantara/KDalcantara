@@ -69,7 +69,7 @@ Web, WCAG, WAI-ARIA, validacao de formularios e manipulacao segura do DOM.
 
 ## Vamos conversar?
 
-Estou aberto a oportunidades de estagio, Front-End Junior e colaboracoes em
+Estou aberto a oportunidades de estagio, Front-End e colaboracoes em
 projetos web.
 
 [![WhatsApp](https://img.shields.io/badge/WhatsApp-Fale_comigo-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/5511988503808?text=Ol%C3%A1%20Kelvin%2C%20encontrei%20seu%20perfil%20no%20GitHub.)
